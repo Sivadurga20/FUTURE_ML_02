@@ -1,0 +1,11 @@
+Ticket,Category
+"My payment failed during checkout",Billing
+"Unable to login to my account",Account
+"App crashes when opening",Technical
+"Need refund for my order",Billing
+"Forgot my password",Account
+"Website loading very slowly",Technical
+"Payment deducted twice",Billing
+"Cannot reset password",Account
+"Error while uploading file",Technical
+"Want to update billing info",Billing
